@@ -1,4 +1,5 @@
-package main
+//Como pueden ver se puede usar el lenguaje Go como si tuviera reglas de C
+package main;
 
 import "fmt";
 import "os";
